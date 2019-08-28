@@ -1,0 +1,62 @@
+{
+  "_from": "cocoon-cordova-labs-local-webserver@^2.4.1",
+  "_id": "cocoon-cordova-labs-local-webserver@2.4.1",
+  "_inBundle": false,
+  "_integrity": "sha1-TOtYQu9FNCmH2k3gd/oQWbJ6EwU=",
+  "_location": "/cocoon-cordova-labs-local-webserver",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cocoon-cordova-labs-local-webserver@^2.4.1",
+    "name": "cocoon-cordova-labs-local-webserver",
+    "escapedName": "cocoon-cordova-labs-local-webserver",
+    "rawSpec": "^2.4.1",
+    "saveSpec": null,
+    "fetchSpec": "^2.4.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cocoon-cordova-labs-local-webserver/-/cocoon-cordova-labs-local-webserver-2.4.1.tgz",
+  "_shasum": "4ceb5842ef45342987da4de077fa1059b27a1305",
+  "_spec": "cocoon-cordova-labs-local-webserver@^2.4.1",
+  "_where": "/Users/alex/Aphix/vagrant/sites/platform/cordova/salesrep",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Collaborne/cordova-plugins/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cocoon-cordova-labs-local-webserver",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "urijs": "^1.17.1"
+  },
+  "deprecated": false,
+  "description": "Cordova Local Web Server Plugin (Cocoon Mod)",
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=4.0.0-dev"
+    }
+  ],
+  "homepage": "https://github.com/Collaborne/cordova-plugins#readme",
+  "keywords": [
+    "cordova",
+    "local web server",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "name": "cocoon-cordova-labs-local-webserver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludei/cordova-plugins.git"
+  },
+  "version": "2.4.1"
+}
